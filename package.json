@@ -25,7 +25,7 @@
     "@gluestack-ui/image": "^0.1.11",
     "@gluestack-ui/input": "^0.1.32",
     "@gluestack-ui/link": "^0.1.23",
-    "@gluestack-ui/menu": "^0.2.37",
+    "@gluestack-ui/menu": "^0.2.43",
     "@gluestack-ui/modal": "^0.1.35",
     "@gluestack-ui/nativewind-utils": "1.0.27-alpha.1",
     "@gluestack-ui/overlay": "^0.1.16",
